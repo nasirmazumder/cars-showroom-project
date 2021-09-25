@@ -3,7 +3,7 @@ import './ShowCars.css'
 const ShowCars = (props) => {
     console.log(props.name)
     return (
-        <div>
+        <div className="showCars">
             <img src={props.img} alt="" />
             <h1>Name: {props.car}</h1>
         </div>
