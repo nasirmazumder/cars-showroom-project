@@ -1,23 +1,23 @@
 import logo from './logo.svg';
+import background from '../src/image/ladies-given-key.jpg'
+
 import './App.css';
+import Header from './Components/Header/Header';
+import Cars from './Components/Header/Cars/Cars';
+import ShowCars from './Components/Header/ShowCars/ShowCars';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{
+      backgroundImage: `url(${background})`, backgroundRepeat: 'no-repeat',
+      width: '100%'
+    }} className="App">
+
+      <Header></Header>
+      <div >
+        <Cars></Cars>
+      </div>
+
     </div>
   );
 }

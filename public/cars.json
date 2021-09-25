@@ -1,0 +1,192 @@
+[
+    {
+        "name": "HONDA CR-V",
+        "year": "2021",
+        "engine": "2.5L",
+        "option": "Full Option",
+        "price": "20000",
+        "rating": "4.5",
+        "seater": "5 Seater",
+        "img": "https://i.ytimg.com/vi/OyrFA_5t04E/maxresdefault.jpg"
+    },
+    {
+        "name": "HONDA PILOT",
+        "year": "2020",
+        "engine": "3.0L",
+        "option": "Mid Option",
+        "price": "25000",
+        "rating": "4.8",
+        "seater": "7 Seater",
+        "img": "https://www.ccarprice.com/products/Honda-Pilot-Elite-2021.jpg"
+    },
+    {
+        "name": "TOYATA RAV-4",
+        "year": "2021",
+        "engine": "2.0L",
+        "option": "Full Option",
+        "price": "35000",
+        "rating": "5",
+        "seater": "5 Seater",
+        "img": "https://www.motortrend.com/uploads/sites/5/2020/07/2021-Toyota-RAV4-Prime-XSE-4.jpg"
+    },
+    {
+        "name": "TOYOTA LAND CRUISER",
+        "year": "2020",
+        "engine": "V8 ,8 CYLINDER",
+        "option": "MID Option",
+        "price": "40000",
+        "rating": "4",
+        "seater": "7 Seater",
+        "img": "https://files.toyota.com.bh/s3fs-public/2021-06/performance.jpg?VersionId=SBlORcYnsZ.tnlI.JIJaxn3P6yhEwwqp"
+    },
+    {
+        "name": "TOYOTA PRADO",
+        "year": "2019",
+        "engine": "4L",
+        "option": "Basic Option",
+        "price": "33000",
+        "rating": "4.0",
+        "seater": "7 Seater",
+        "img": "https://www.japanesevehicles.com/photos/L/216463/216463-1.jpg"
+    },
+    {
+        "name": "TOYOTA FJ CRUISER",
+        "year": "2022",
+        "engine": "5.0L",
+        "option": "Full Option",
+        "price": "45000",
+        "rating": "3.5",
+        "seater": "7 Seater",
+        "img": "https://www.ccarprice.com/products/Toyota_FJ_Cruiser.jpg"
+    },
+    {
+        "name": "TOYOTA SUPRA",
+        "year": "2020",
+        "engine": "2.5L",
+        "option": "Mid Option",
+        "price": "35000",
+        "rating": "4.5",
+        "seater": "2 Seater",
+        "img": "https://www.motorbiscuit.com/wp-content/uploads/2020/05/2021-Toyota-Supra-1024x739.jpg"
+    },
+    {
+        "name": "NISSAN PATROL",
+        "year": "2021",
+        "engine": "V8 Engine",
+        "option": "Basic Option",
+        "price": "55000",
+        "rating": "4.0",
+        "seater": "7 Seater",
+        "img": "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_middle_east/vehicles/NISMO/patrol21/PRIDE-OF-PLACE.jpg.ximg.l_full_m.smart.jpg"
+    },
+    {
+        "name": "NISSAN KICKS",
+        "year": "2022",
+        "engine": "2.0L",
+        "option": "Full Option",
+        "price": "15000",
+        "rating": "4.5",
+        "seater": "5 Seater",
+        "img": "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_middle_east/vehicles/kicks/KICKS-2021/Kicks-Grade.jpg.ximg.l_3_m.smart.jpg"
+    },
+    {
+        "name": "TOYOTA AVALON",
+        "year": "2021",
+        "engine": "2.5L",
+        "option": "Full Option",
+        "price": "20000",
+        "rating": "4.5",
+        "seater": "5 Seater",
+        "img": "https://cdn.jdpower.com/JDPA_2020-Toyota-Avalon-XLE-Hybrid-Harbor-Gray-Front-Quarter.jpg"
+    },
+    {
+        "name": "TOYOTA CAMRY",
+        "year": "2019",
+        "engine": "3.0L",
+        "option": "MID Option",
+        "price": "18000",
+        "rating": "4.5",
+        "seater": "5 Seater",
+        "img": "https://cdn-ds.com/blogs-media/sites/426/2019/02/15161838/2019_ToyotaCamry_Performance_Blog1_o.jpg"
+    },
+    {
+        "name": "TOYOTA CAMRY",
+        "year": "2019",
+        "engine": "2.5L",
+        "option": "Full Option",
+        "price": "20000",
+        "rating": "4.5",
+        "seater": "5 Seater",
+        "img": "https://www.cnet.com/a/img/mX8bZHRpsipkP9rThpf6CGE9eqU=/1200x675/2019/01/22/e4e5f32e-f0a3-4d42-b081-ae5a1912fe52/2018-toyota-camry-xse-05-3ceef72f454ff1b3ed36ac425f9beecf743f1f8f.jpg"
+    },
+    {
+        "name": "TOYOTA CAMRY",
+        "year": "2021",
+        "engine": "2.5L",
+        "option": "Full Option",
+        "price": "20000",
+        "rating": "4.5",
+        "seater": "5 Seater",
+        "img": "https://www.iihs.org/api/ratings/model-year-images/2921"
+    },
+    {
+        "name": "TOYOTA CAMRY ",
+        "year": "2022",
+        "engine": "2.5L",
+        "option": "Full Option",
+        "price": "22000",
+        "rating": "4.5",
+        "seater": "5 Seater",
+        "img": "https://cka-dash.s3.amazonaws.com/124-1018-TR231/mainimage.jpg"
+    },
+    {
+        "name": "TOYOTA CAMRY",
+        "year": "2021",
+        "engine": "2.5L",
+        "option": "Full Option",
+        "price": "20000",
+        "rating": "4.5",
+        "seater": "5 Seater",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyWPpFPs48i1WHEbD800qq37C5wa2nAoks0w&usqp=CAU"
+    },
+    {
+        "name": "TOYOTA COROLLA",
+        "year": "2021",
+        "engine": "2.0L",
+        "option": "Full Option",
+        "price": "20000",
+        "rating": "4.5",
+        "seater": "5 Seater",
+        "img": "https://www.topgear.com/sites/default/files/cars-car/carousel/2019/02/toyota-corolla-excel-hybrid-sterling-silver-bitone-4.jpg"
+    },
+    {
+        "name": "TOYOTA COROLLA",
+        "year": "2021",
+        "engine": "2.5L",
+        "option": "Full Option",
+        "price": "20000",
+        "rating": "4.5",
+        "seater": "5 Seater",
+        "img": "https://images.hgmsites.net/med/2021-toyota-corolla-le-cvt-natl-angular-front-exterior-view_100754726_m.jpg"
+    },
+    {
+        "name": "LAMBORGHINI AVENTADOR",
+        "year": "2021",
+        "engine": "6.0L",
+        "option": "Full Option",
+        "price": "90000",
+        "rating": "5.0",
+        "seater": "2 Seater",
+        "img": "https://autodesignmagazine.com/wp-content/uploads/2021/07/2021070702_Lamborghini_AventadorUltimae.jpeg"
+    },
+    {
+        "name": "LAMBORGHINI",
+        "year": "2021",
+        "engine": "6.0L",
+        "option": "Full Option",
+        "price": "80000",
+        "rating": "4.5",
+        "seater": "5 Seater",
+        "img": "https://www.lambocars.com/wp-content/uploads/2020/01/lamborghini-huracan-evo-rwd.jpeg"
+    }
+]

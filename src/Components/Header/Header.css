@@ -1,0 +1,16 @@
+  
+.header-section{
+    /* display: flex; */
+    background-color: rgb(1, 1, 44);
+    line-height: 20%;
+    color: white;
+}
+.header-section img{
+    width: 50%;
+    height: 250px;
+}
+.header{
+    text-align: center;
+    padding: 10px;
+    
+}
