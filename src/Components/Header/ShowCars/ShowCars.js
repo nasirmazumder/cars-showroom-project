@@ -11,6 +11,7 @@ const ShowCars = (props) => {
                 <img src={img} alt="" />
                 <h2>Name: {name}</h2>
                 <h4>Year: {year}</h4>
+
                 <p>Engine: {engine}</p>
                 <p>Option: {option}</p>
                 <p>Seat: {seater}</p>
