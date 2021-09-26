@@ -9,7 +9,7 @@ const Header = (props) => {
                 <h1>AL SAFI CAR SHOWROOM AND CAR RENTALS</h1>
                 <br />
                 <h2 className="slogan">High-tech Performance at Low-Tech value</h2>
-                <h2>Total Fleet Available:1500 Vehicles</h2>
+
             </div>
 
         </div>

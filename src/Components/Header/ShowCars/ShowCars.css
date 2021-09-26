@@ -1,8 +1,31 @@
 .showCars{
-    display: grid;
-    grid-template-columns:repeat(3,1fr);
-
+    background-color: rgb(0, 7, 27);
+    border: 2px solid rgb(1, 7, 36);
+    margin: 10px;
+    padding: 5px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 4px 10px 10px #01012C;
+    transition: 1s ease-in-out;
+    overflow: hidden;
+}
+.showCars:hover{
+    transform: scale(1.050);
 }
 .showCars img{
-    width: 50%;
+    width: 100%;
+}
+.btn-buyNow{
+    padding: 5px;
+    background-color: rgb(99, 0, 25);
+width: 200px;
+border-radius: 10px;
+border: 1px solid rgb(205, 205, 212);
+color: white;
+font-size: 15px;
+cursor: pointer;
+
+}
+.btn-buyNow:hover{
+    background-color: rgb(155, 132, 1);
 }
