@@ -10,7 +10,7 @@ console.log(props.cart)
    
     }
     let tax = 5;
-    let totalTax = parseInt((total/100)*5);
+    let totalTax = parseInt((total/100)*tax);
 
   let totalPrice = total + totalTax;
      
