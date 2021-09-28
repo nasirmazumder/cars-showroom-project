@@ -37,3 +37,13 @@
       background-color: rgb(37, 3, 70);
       color: white;
   }
+.buyNow{
+      text-align: center;
+      margin-top: 10px;
+  }
+  .btn-buy{
+      background-color:goldenrod;
+      border-radius: 10px;
+      border: 1px solid grey;
+      padding: 8px;
+  }
