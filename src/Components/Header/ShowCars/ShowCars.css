@@ -29,3 +29,26 @@ cursor: pointer;
 .btn-buyNow:hover{
     background-color: rgb(155, 132, 1);
 }
+.fa-star.filled{
+    color: orange;
+}
+.fa-star.empty{
+    color: #aeaeae;
+}
+.fa-car-side{
+    font-size: 20px;
+    color: #dab903;
+    margin-right: 5px;
+}
+.fa-handshake{
+    font-size: 20px;
+    color: #dab903;
+    margin-left: 5px;
+}
+ .btn-buyNow:hover .fa-car-side{
+    color: white;
+}
+ .btn-buyNow:hover .fa-handshake{
+    color: white;
+}
+
