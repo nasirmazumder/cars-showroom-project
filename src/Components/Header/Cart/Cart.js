@@ -1,13 +1,19 @@
 import React from 'react';
 
-const Cart = (props) => {
-    console.log(props.cart)
+console.log(props.cart)
     const { cart } = props;
+    
     let total = 0;
-    for (const product of cart) {
-        console.log(product)
-        total = total + cart.price;
+    for(const product of cart) {
+    total =total + parseInt(product.price)
+
+   
     }
+    let tax = 5;
+    let totalTax = parseInt((total/100)*5);
+
+  let totalPrice = total + totalTax;
+     
     return (
         <div>
             <h1>Order Summary</h1>
