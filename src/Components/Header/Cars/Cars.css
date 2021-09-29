@@ -18,7 +18,7 @@
     grid-template-columns: repeat(3,1fr);
 }
 
-//adding breakpoint for MObile phone:
+/* adding breakpoint for MObile phone */
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     .shop-container{
