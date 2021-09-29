@@ -20,9 +20,10 @@ const Cart = (props) => {
         <div>
             <h1>Order Summary</h1>
             <div className="cart">
-                <table class="table">
+                <h1>My-Cart</h1>
+                <table className="table">
 
-                    <h1>My-Cart</h1>
+
 
 
 
@@ -48,11 +49,11 @@ const Cart = (props) => {
                         <th>$ {totalPrice} </th>
 
                     </tr>
-                    <ul>
-                        <li>{carName}</li>
-                    </ul>
-                </table>
 
+                </table>
+                <ul>
+                    <li>{carName}</li>
+                </ul>
             </div>
             <div className="check-out">
                 <button className="btn-buyNow">Check out</button>

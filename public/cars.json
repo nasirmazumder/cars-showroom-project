@@ -110,7 +110,7 @@
         "img": "https://cdn-ds.com/blogs-media/sites/426/2019/02/15161838/2019_ToyotaCamry_Performance_Blog1_o.jpg"
     },
     {
-        "name": "TOYOTA CAMRY",
+        "name": "TOYOTA CAMRY,2019",
         "year": "2019",
         "engine": "2.5L",
         "option": "Full Option",
@@ -120,7 +120,7 @@
         "img": "https://www.cnet.com/a/img/mX8bZHRpsipkP9rThpf6CGE9eqU=/1200x675/2019/01/22/e4e5f32e-f0a3-4d42-b081-ae5a1912fe52/2018-toyota-camry-xse-05-3ceef72f454ff1b3ed36ac425f9beecf743f1f8f.jpg"
     },
     {
-        "name": "TOYOTA CAMRY",
+        "name": "TOYOTA CAMRY,2021",
         "year": "2021",
         "engine": "2.5L",
         "option": "Full Option",
@@ -130,7 +130,7 @@
         "img": "https://www.iihs.org/api/ratings/model-year-images/2921"
     },
     {
-        "name": "TOYOTA CAMRY ",
+        "name": "TOYOTA CAMRY,22 ",
         "year": "2022",
         "engine": "2.5L",
         "option": "Full Option",
@@ -140,7 +140,7 @@
         "img": "https://cka-dash.s3.amazonaws.com/124-1018-TR231/mainimage.jpg"
     },
     {
-        "name": "TOYOTA CAMRY",
+        "name": "TOYOTA CAMRY,21",
         "year": "2021",
         "engine": "2.5L",
         "option": "Full Option",
@@ -160,6 +160,19 @@
         "img": "https://www.topgear.com/sites/default/files/cars-car/carousel/2019/02/toyota-corolla-excel-hybrid-sterling-silver-bitone-4.jpg"
     },
     {
+<<<<<<< HEAD
+=======
+        "name": "TOYOTA COROLLA.",
+        "year": "2021",
+        "engine": "2.5L",
+        "option": "Full Option",
+        "price": "20000",
+        "rating": "4.5",
+        "seater": "5 Seater",
+        "img": "https://images.hgmsites.net/med/2021-toyota-corolla-le-cvt-natl-angular-front-exterior-view_100754726_m.jpg"
+    },
+    {
+>>>>>>> d1de352a8ec57e6a994288ebd39e88e8206a9a22
         "name": "LAMBORGHINI AVENTADOR",
         "year": "2021",
         "engine": "6.0L",
