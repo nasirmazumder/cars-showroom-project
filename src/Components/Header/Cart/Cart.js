@@ -1,13 +1,21 @@
 import React from 'react';
 
 const Cart = (props) => {
-    console.log(props.cart)
+    // Destructuring
     const { cart } = props;
+    let carName = '';
     let total = 0;
     for (const product of cart) {
-        console.log(product)
-        total = total + cart.price;
+        total = total + parseInt(product.price)
+        carName = product.name
+
     }
+    // Tax calculation 
+    let tax = 5;
+    let totalTax = parseInt((total / 100) * tax);
+    //total price calculation.
+    let totalPrice = total + totalTax;
+
     return (
         <div>
             <h1>Order Summary</h1>
@@ -20,9 +28,10 @@ const Cart = (props) => {
 
                     <tr>
                         <th>Total Added Cars:</th>
-                        <td>Qty <span id="total-Products">{props.cart.length}</span></td>
+                        <td>Qty {props.cart.length}</td>
 
                     </tr>
+
                     <tr>
                         <th>Price:</th>
                         <th>$ {total}</th>
@@ -31,16 +40,22 @@ const Cart = (props) => {
 
                     <tr>
                         <th>Total-Tax:</th>
-                        <th>$ <span id="total-tax">0</span></th>
+                        <th>$ {totalTax}</th>
 
                     </tr>
                     <tr>
-                        <th scope="row">Total</th>
-                        <th colspan="2">$ <span id="total">0</span></th>
+                        <th>Total</th>
+                        <th>$ {totalPrice} </th>
 
                     </tr>
-
+                    <ul>
+                        <li>{carName}</li>
+                    </ul>
                 </table>
+
+            </div>
+            <div className="check-out">
+                <button className="btn-buyNow">Check out</button>
             </div>
         </div>
     );

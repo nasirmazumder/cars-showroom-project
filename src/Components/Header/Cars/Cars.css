@@ -17,6 +17,23 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
 }
+
+/* adding breakpoint for MObile phone: */
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .shop-container{
+        display: grid;
+        grid-template-columns:3fr;
+        grid-gap: 10px;
+    }
+
+
+    .cars-container{
+        display: grid;
+        grid-template-columns:3fr ;
+    }
+      
+    }
 .cart {
     width: 350px;
     /* border: 1px solid green; */
@@ -36,4 +53,14 @@
       border-collapse: collapse;
       background-color: rgb(37, 3, 70);
       color: white;
+  }
+.buyNow{
+      text-align: center;
+      margin-top: 10px;
+  }
+  .btn-buy{
+      background-color:goldenrod;
+      border-radius: 10px;
+      border: 1px solid grey;
+      padding: 8px;
   }

@@ -6,6 +6,7 @@ const Cars = (props) => {
     const [cars, setCars] = useState([]);
     const [cart, setCart] = useState([])
     useEffect(() => {
+        // Getting data by fetch
         fetch('./cars.json')
             .then(res => res.json())
             .then(data => setCars(data))
@@ -13,6 +14,7 @@ const Cars = (props) => {
     }, [])
 
     const handleBuyNow = product => {
+        // using spread operator
         const newCart = [...cart, product];
         setCart(newCart)
     }
@@ -22,7 +24,7 @@ const Cars = (props) => {
             <div className="shop-container">
 
                 <div className="cars-container">
-
+                    {/* Map on product */}
                     {
                         cars.map(car => <ShowCars
                             key={car.name}
@@ -35,6 +37,7 @@ const Cars = (props) => {
                 <div className="cart-container">
                     <Cart cart={cart}></Cart>
                 </div>
+
             </div>
         </div>
     );
