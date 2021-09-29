@@ -13,7 +13,7 @@
     padding: 10px;
     
 }
-//breakpoint for mobile phone:
+/*breakpoint for mobile phone*/
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
