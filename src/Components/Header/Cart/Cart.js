@@ -1,6 +1,6 @@
 import React from 'react';
 
-console.log(props.cart)
+const Cart = (props) => {
     const { cart } = props;
     
     let total = 0;
