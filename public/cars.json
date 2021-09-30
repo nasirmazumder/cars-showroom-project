@@ -160,19 +160,6 @@
         "img": "https://www.topgear.com/sites/default/files/cars-car/carousel/2019/02/toyota-corolla-excel-hybrid-sterling-silver-bitone-4.jpg"
     },
     {
-<<<<<<< HEAD
-=======
-        "name": "TOYOTA COROLLA.",
-        "year": "2021",
-        "engine": "2.5L",
-        "option": "Full Option",
-        "price": "20000",
-        "rating": "4.5",
-        "seater": "5 Seater",
-        "img": "https://images.hgmsites.net/med/2021-toyota-corolla-le-cvt-natl-angular-front-exterior-view_100754726_m.jpg"
-    },
-    {
->>>>>>> d1de352a8ec57e6a994288ebd39e88e8206a9a22
         "name": "LAMBORGHINI AVENTADOR",
         "year": "2021",
         "engine": "6.0L",

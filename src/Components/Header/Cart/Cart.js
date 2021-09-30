@@ -51,9 +51,13 @@ const Cart = (props) => {
                     </tr>
 
                 </table>
+
                 <ul>
-                    <li>{carName}</li>
+
+                    <li className="list-item">{carName}</li>
+
                 </ul>
+
             </div>
             <div className="check-out">
                 <button className="btn-buyNow">Check out</button>
